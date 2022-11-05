@@ -1,0 +1,9 @@
+DB_NAME=aut_test
+DB_USER=aut
+DB_PASSWORD=@utT3st
+DB_HOST=magistratik.zeph1rr.site
+DB_PORT=5432
+JWT_SECRET=some_jwt_secret
+
+DEBUG_LEVEL=full
+LOG_PATh=/var/log/aut
