@@ -1,4 +1,4 @@
-DB_NAME=aut_test
+DB_NAME=aut_sava
 DB_USER=aut
 DB_PASSWORD=@utT3st
 DB_HOST=magistratik.zeph1rr.site
