@@ -53,7 +53,7 @@ services:
       - env_values
     restart: unless-stopped
     ports:
-      - 5432:5432
+      - 5000:5000
     depends_on:
       - postgres
     volumes:
