@@ -6,4 +6,4 @@ DB_PORT=5432
 JWT_SECRET=some_jwt_secret
 
 DEBUG_LEVEL=full
-LOG_PATh=/var/log/aut
+LOG_PATH=/var/log/aut
