@@ -1,7 +1,7 @@
-# CrowDecrypt
+# AutoInnovating
 
 ## USAGE
 
 ### Start project with command:
 
-```docker-compose --env-file env_values up```
+```docker-compose up```
