@@ -52,8 +52,6 @@ services:
     env_file:
       - env_values
     restart: unless-stopped
-    ports:
-      - 5000:5000
     depends_on:
       - postgres
     volumes:
