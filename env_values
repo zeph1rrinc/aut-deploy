@@ -1,7 +1,7 @@
-DB_NAME=aut_sava
+DB_NAME=aut_test
 DB_USER=aut
 DB_PASSWORD=@utT3st
-DB_HOST=postgres
+DB_HOST=magistratik.zeph1rr.site
 DB_PORT=5432
 JWT_SECRET=L3@ders0fD1git@lInTr@nsF0rm
 
